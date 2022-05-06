@@ -5,6 +5,6 @@ return a+b;
 }
 int main(){
 int ans=add(2,3);
-cout<<ans;
+cout<<ans<<endl;
 return 0;
 }
